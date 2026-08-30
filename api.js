@@ -1,5 +1,5 @@
 const SUPABASE_URL = "https://rubjadkltlbenahdutpl.supabase.co";
-const SUPABASE_KEY = "YOUR_PUBLISHABLE_KEY";
+const SUPABASE_KEY = "sb_publishable_in7AoGhf34taPb-r9Q1heQ_JXE_wNon";
 
 async function getProjectiles() {
     const response = await fetch(
